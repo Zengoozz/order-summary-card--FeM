@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Zengoozz/order-summary-card--FeM)
-- Live Site URL: [Live](https://zengoozz.github.io/order-summary-card--FeM/https://your-live-site-url.com)
+- Live Site URL: [Live](https://zengoozz.github.io/order-summary-card--FeM)
 
 ## My process
 
