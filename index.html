@@ -8,30 +8,33 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 
-  <header>
-    <title>Frontend Mentor | Order summary card</title>
-  </header>
+  <title>Frontend Mentor | Order summary card</title>
+
   <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-  <main>
+
+  <main role="master">
     <div id="main">
+      <header role="master-title">
+        <h1>Order Summary Card</h1>
+      </header>
       <div class="card">
         <span class="image-container">
           <img src="./images/illustration-hero.svg" alt="Hero Image">
         </span>
-  
+
         <div class="card-content">
           <span class="title">
             Order Summary
           </span>
-  
+
           <span class="info">
             You can now listen to millions of songs, audiobooks, and podcasts on any
             device anywhere you like!
           </span>
-  
+
           <div class="details">
             <div class="service">
               <img src="./images/icon-music.svg" alt="music-icon">
@@ -44,7 +47,7 @@
               Change
             </button>
           </div>
-  
+
           <button class="proceed">
             Proceed to Payment
           </button>

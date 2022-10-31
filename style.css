@@ -32,7 +32,12 @@
     font-family: var(--redHat);
     font-size: 1rem;
 }
-
+h1{
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    color: var(--darkedBlue);
+    border-bottom: 2px solid var(--veryPaleBlue);
+}
 .card {
     max-width: 30rem;
     min-width: 10rem;
