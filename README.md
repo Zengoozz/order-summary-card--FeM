@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Zengoozz/order-summary-card--FeM)
+- Live Site URL: [Live](https://zengoozz.github.io/order-summary-card--FeM/https://your-live-site-url.com)
 
 ## My process
 
@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [Zengoozz](https://github.com/Zengoozz)
+- Frontend Mentor - [@Zengoozz](https://www.frontendmentor.io/profile/Zengoozz)
+- Linkedin - [Nour ElDeen Mohamed](https://www.linkedin.com/in/zengoozz/)
